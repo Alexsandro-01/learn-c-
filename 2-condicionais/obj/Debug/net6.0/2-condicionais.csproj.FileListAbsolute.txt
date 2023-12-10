@@ -1,0 +1,15 @@
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/bin/Debug/net6.0/2-condicionais
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/bin/Debug/net6.0/2-condicionais.deps.json
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/bin/Debug/net6.0/2-condicionais.runtimeconfig.json
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/bin/Debug/net6.0/2-condicionais.dll
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/bin/Debug/net6.0/ref/2-condicionais.dll
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/bin/Debug/net6.0/2-condicionais.pdb
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.csproj.AssemblyReference.cache
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.AssemblyInfoInputs.cache
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.AssemblyInfo.cs
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.csproj.CoreCompileInputs.cache
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.dll
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/ref/2-condicionais.dll
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.pdb
+/home/alexsandro/documentos/aceleração-c#/2-condicionais/obj/Debug/net6.0/2-condicionais.genruntimeconfig.cache
