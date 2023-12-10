@@ -1,0 +1,15 @@
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/bin/Debug/net6.0/imc
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/bin/Debug/net6.0/imc.deps.json
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/bin/Debug/net6.0/imc.runtimeconfig.json
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/bin/Debug/net6.0/imc.dll
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/bin/Debug/net6.0/ref/imc.dll
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/bin/Debug/net6.0/imc.pdb
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.csproj.AssemblyReference.cache
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.AssemblyInfoInputs.cache
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.AssemblyInfo.cs
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.csproj.CoreCompileInputs.cache
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.dll
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/ref/imc.dll
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.pdb
+/home/alexsandro/documentos/aceleração-c#/Arrays-funções-Exceções/imc/obj/Debug/net6.0/imc.genruntimeconfig.cache
