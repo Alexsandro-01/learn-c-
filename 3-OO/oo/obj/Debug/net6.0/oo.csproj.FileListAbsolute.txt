@@ -1,0 +1,15 @@
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.csproj.AssemblyReference.cache
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.AssemblyInfoInputs.cache
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.AssemblyInfo.cs
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.csproj.CoreCompileInputs.cache
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/bin/Debug/net6.0/oo
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/bin/Debug/net6.0/oo.deps.json
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/bin/Debug/net6.0/oo.runtimeconfig.json
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/bin/Debug/net6.0/oo.dll
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/bin/Debug/net6.0/ref/oo.dll
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/bin/Debug/net6.0/oo.pdb
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.dll
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/ref/oo.dll
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.pdb
+/home/alexsandro/documentos/aceleração-c#/3-OO/oo/obj/Debug/net6.0/oo.genruntimeconfig.cache
