@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexsandro/documentos/learn-CSharp/3-OO/oo/oo.csproj",
-      "projectName": "oo",
-      "projectPath": "/home/alexsandro/documentos/learn-CSharp/3-OO/oo/oo.csproj",
+      "projectUniqueName": "/home/alexsandro/documentos/learn-CSharp/jsonWriter/jsonWriter.csproj",
+      "projectName": "jsonWriter",
+      "projectPath": "/home/alexsandro/documentos/learn-CSharp/jsonWriter/jsonWriter.csproj",
       "packagesPath": "/home/alexsandro/.nuget/packages/",
-      "outputPath": "/home/alexsandro/documentos/learn-CSharp/3-OO/oo/obj/",
+      "outputPath": "/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alexsandro/.nuget/NuGet/NuGet.Config"
