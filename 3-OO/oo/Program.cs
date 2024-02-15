@@ -16,6 +16,6 @@ class Program
     };
     
 
-    Console.WriteLine(person.Num);
+    Console.WriteLine("hello word");
   }
 }

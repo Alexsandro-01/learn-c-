@@ -1,0 +1,15 @@
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/bin/Debug/net6.0/jsonWriter
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/bin/Debug/net6.0/jsonWriter.deps.json
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/bin/Debug/net6.0/jsonWriter.runtimeconfig.json
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/bin/Debug/net6.0/jsonWriter.dll
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/bin/Debug/net6.0/ref/jsonWriter.dll
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/bin/Debug/net6.0/jsonWriter.pdb
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.csproj.AssemblyReference.cache
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.AssemblyInfoInputs.cache
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.AssemblyInfo.cs
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.csproj.CoreCompileInputs.cache
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.dll
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/ref/jsonWriter.dll
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.pdb
+/home/alexsandro/documentos/learn-CSharp/jsonWriter/obj/Debug/net6.0/jsonWriter.genruntimeconfig.cache
