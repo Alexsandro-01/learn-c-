@@ -1,0 +1,15 @@
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/bin/Debug/net6.0/lambda
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/bin/Debug/net6.0/lambda.deps.json
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/bin/Debug/net6.0/lambda.runtimeconfig.json
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/bin/Debug/net6.0/lambda.dll
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/bin/Debug/net6.0/ref/lambda.dll
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/bin/Debug/net6.0/lambda.pdb
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.csproj.AssemblyReference.cache
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.AssemblyInfoInputs.cache
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.AssemblyInfo.cs
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.csproj.CoreCompileInputs.cache
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.dll
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/ref/lambda.dll
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.pdb
+/home/alexsandro/documentos/learn-CSharp/link-dto/lambda/obj/Debug/net6.0/lambda.genruntimeconfig.cache
