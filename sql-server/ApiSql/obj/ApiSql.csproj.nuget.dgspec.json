@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alexsandro/documentos/learn-CSharp/sql-server/ProjetoSql/ProjetoSql.csproj": {}
+    "/home/alexsandro/documentos/learn-CSharp/sql-server/ApiSql/ApiSql.csproj": {}
   },
   "projects": {
-    "/home/alexsandro/documentos/learn-CSharp/sql-server/ProjetoSql/ProjetoSql.csproj": {
+    "/home/alexsandro/documentos/learn-CSharp/sql-server/ApiSql/ApiSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alexsandro/documentos/learn-CSharp/sql-server/ProjetoSql/ProjetoSql.csproj",
-        "projectName": "ProjetoSql",
-        "projectPath": "/home/alexsandro/documentos/learn-CSharp/sql-server/ProjetoSql/ProjetoSql.csproj",
+        "projectUniqueName": "/home/alexsandro/documentos/learn-CSharp/sql-server/ApiSql/ApiSql.csproj",
+        "projectName": "ApiSql",
+        "projectPath": "/home/alexsandro/documentos/learn-CSharp/sql-server/ApiSql/ApiSql.csproj",
         "packagesPath": "/home/alexsandro/.nuget/packages/",
-        "outputPath": "/home/alexsandro/documentos/learn-CSharp/sql-server/ProjetoSql/obj/",
+        "outputPath": "/home/alexsandro/documentos/learn-CSharp/sql-server/ApiSql/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alexsandro/.nuget/NuGet/NuGet.Config"
@@ -45,6 +45,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -58,6 +62,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
