@@ -27,7 +27,9 @@ public class BookRepository
   // que realiza essa consulta em BookRepository;
   public List<Book> GetBookList()
   {
-    var query = _databaseContext.Books.ToList();
+    var query = _databaseContext
+                .Books
+                .ToList();
 
     return query;
   }

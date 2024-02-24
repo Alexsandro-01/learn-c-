@@ -39,4 +39,12 @@ public class BookController : ControllerBase
 
     return Ok(new { message = "Book added" });
   }
+
+  [HttpGet]
+  public IActionResult GetBooks()
+  {
+    var result = _repository.GetBookList();
+
+    return Ok(result);
+  }
 }
