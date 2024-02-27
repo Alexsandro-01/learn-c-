@@ -47,4 +47,19 @@ public class BookController : ControllerBase
 
     return Ok(result);
   }
+
+  [HttpGet("{id}")]
+  public IActionResult GetById(int id)
+  {
+    var book = _repository.GetById(id);
+
+    if (book is null)
+    {
+      return NotFound(new {
+        message = "Book not found"
+      });
+    }
+
+    return Ok(book);
+  }
 }

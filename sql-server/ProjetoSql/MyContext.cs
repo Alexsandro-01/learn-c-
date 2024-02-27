@@ -12,6 +12,8 @@ public class MyContext : DbContext
   // Adicionamos  DbSet
   public DbSet<Category> Categories {get; set;}
   public DbSet<Product> Products {get; set;}
+  public DbSet<Post> Posts {get; set;}
+  public DbSet<Tag> Tags {get; set;}
 
   protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
   {
